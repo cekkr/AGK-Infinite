@@ -1,0 +1,6 @@
+LUA_LIBDIR=..\lua\lib
+LUA_DIR=..\lua\share
+BIN_DIR=..\lua\bin
+CFLAGS=/O2 /DWINDOWS /D_WIN64 /Ic:\usr\local\include
+LIB_OPTION="..\lua\bin\lua54.dll"
+PREFIX=
